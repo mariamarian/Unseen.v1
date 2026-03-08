@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start-scene.unity
+    guid: fa04a7f529417da42a981e9fb57995c7
+  - enabled: 1
+    path: Assets/Scenes/start_animation.unity
+    guid: ac29dbbb44abdf542951e140fd5c76db
+  - enabled: 1
+    path: Assets/Scenes/openlocker.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/SearchLocker.unity
+    guid: 13e882373a8ace64db4c17e218fbe6ed
+  - enabled: 1
+    path: Assets/Scenes/RyanStreet.unity
+    guid: 8c377912751f8d542af3b198ea3dd083
+  - enabled: 1
+    path: Assets/Scenes/RyanRoom.unity
+    guid: 35af3d34fb0d2a947be099dd43c3cdd6
+  - enabled: 1
+    path: Assets/Scenes/TylerHouse.unity
+    guid: 4c53e463118413a44a6a6c798dd793c7
+  - enabled: 1
+    path: Assets/Scenes/Ryan-final.unity
+    guid: 0e48cd660c368a940bb9c535e5b5f3af
+  - enabled: 1
+    path: Assets/Scenes/Tyler-final.unity
+    guid: 7035f8f59f10a1748b53dacae04c30fc
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
